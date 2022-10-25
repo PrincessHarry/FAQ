@@ -314,27 +314,27 @@ left: 270px;
 @media screen and (max-width: 767px)
 {
 .FAQ{
-	width: 600px;
+	width: 400px;
 	height: 1024px;
 }
 
 .questions-head h1{
-width: 456px;
+width: 400px;
 height: 24px;
-left: 100px;
+left: 90px;
 top: 10px;
-font-weight: 700;
-font-size: 30px;
+font-weight: 500;
+font-size: 20px;
 line-height: 24px;
 }
 
 .questions-head h3{
-width: 413px;
+width: 380px;
 height: 24px;
-left: 121px;
+left: 111px;
 top: 47px;
-font-weight: 400;
-font-size: 18px;
+font-weight: 200;
+font-size: 15px;
 line-height: 24px;
 }
 .questions-list{
@@ -345,15 +345,15 @@ line-height: 24px;
 	width: 80%;
 	display: inline-block;
 	padding: 17px;
-	font-size: 20px;
+	font-size: 15px;
 	margin-left: 3%;
 }
 details summary{
 	margin: 12px auto;
 	width: 100%;
 	height: 24px;
-	font-size: 20px;
-	font-weight: 200;
+	font-size:18px;
+	font-weight: 100;
 	text-align: left;
 	margin-left: 15px;
 	
@@ -365,7 +365,7 @@ details summary:after{
 	font-size:18px;
 		line-height: 3px;
 		margin-top: 8px;
-		left:450px;
+		left:460px;
 		font-weight: 50;
 }
 details[open] summary:after {
@@ -377,7 +377,7 @@ details[open] summary:after {
 width: 261px;
 height: 24px;
 left: 150px;
-bottom:-490px;
+bottom:-480px;
 font-weight: 600;
 font-size: 25px;
 line-height: 24px;
@@ -388,7 +388,7 @@ position: absolute;
 width: 572px;
 height: 16px;
 left: 40px;
-bottom: -522px;
+bottom: -512px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 400;
@@ -399,7 +399,7 @@ color: #6F6A6A;
 .contact a{
 position: absolute;
 left: 200px;
-bottom: -586px;
+bottom: -576px;
 background: #1A2B68;
 border-radius: 12px;
 padding: 12px 20px;
