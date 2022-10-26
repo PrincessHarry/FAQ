@@ -319,22 +319,22 @@ left: 270px;
 }
 
 .questions-head h1{
-width: 400px;
+width: 200px;
 height: 24px;
 left: 90px;
 top: 10px;
 font-weight: 500;
-font-size: 20px;
+font-size: 1.2em;
 line-height: 24px;
 }
 
 .questions-head h3{
-width: 380px;
+width: 150px;
 height: 24px;
 left: 111px;
 top: 47px;
 font-weight: 200;
-font-size: 15px;
+font-size: 0.8em;
 line-height: 24px;
 }
 .questions-list{
@@ -345,14 +345,14 @@ line-height: 24px;
 	width: 80%;
 	display: inline-block;
 	padding: 17px;
-	font-size: 15px;
+	font-size: 0.8em;
 	margin-left: 3%;
 }
 details summary{
 	margin: 12px auto;
 	width: 100%;
 	height: 24px;
-	font-size:18px;
+	font-size:1em;
 	font-weight: 100;
 	text-align: left;
 	margin-left: 15px;
@@ -378,8 +378,8 @@ width: 261px;
 height: 24px;
 left: 150px;
 bottom:-480px;
-font-weight: 600;
-font-size: 25px;
+font-weight: 400;
+font-size: 20px;
 line-height: 24px;
 color: #000000;
 }
@@ -391,8 +391,8 @@ left: 40px;
 bottom: -512px;
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 400;
-font-size: 18px;
+font-weight: 200;
+font-size: 1em;
 line-height: 24px;
 color: #6F6A6A;
 }
