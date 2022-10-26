@@ -349,7 +349,7 @@ line-height: 24px;
 	margin-left: 3%;
 }
 details summary{
-        Margin:100px auto;
+        Margin:50px auto;
 	width: 70%;
 	height: 24px;
 	font-size:0.8;
@@ -365,7 +365,7 @@ details summary:after{
 	border-radius: 50%;
 	font-size:18px;
 		line-height: 9px;
-		margin-top: 30px;
+		margin-top: 50px;
 		left:310px;
 		font-weight: 50;
 }
