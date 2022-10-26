@@ -352,7 +352,6 @@ details summary{
         Margin:5px auto;
 	width: 70%;
 	height: 24px;
-	font-size:1.2em;
 	font-weight: 600;
 	text-align: left;
 	margin-left: 15px;
@@ -365,7 +364,7 @@ details summary:after{
 	border-radius: 50%;
 	font-size:18px;
 		line-height: 9px;
-		margin-top: -15px;
+		margin-top: -20px;
 		left:310px;
 		font-weight: 50;
 }
