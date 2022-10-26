@@ -349,14 +349,14 @@ line-height: 24px;
 	margin-left: 3%;
 }
 details summary{
-        Margin:20px auto;
+        Margin:50px auto;
 	width: 70%;
 	height: 24px;
 	font-size:0.8;
 	font-weight: 400;
 	text-align: left;
 	margin-left: 15px;
-        Line-height:100px
+    
 	
 }
 details summary:after{
