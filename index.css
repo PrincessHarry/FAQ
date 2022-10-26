@@ -349,6 +349,7 @@ line-height: 24px;
 	margin-left: 3%;
 }
 details summary{
+        Margin:20px auto;
 	width: 70%;
 	height: 24px;
 	font-size:0.8;
