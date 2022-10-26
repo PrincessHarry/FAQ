@@ -315,13 +315,13 @@ left: 270px;
 {
 .FAQ{
 	width: 500px;
-	height: 1080px;
+	height: 1180px;
 }
 
 .questions-head h1{
 width: 100%;
 height: 24px;
-left: 60px;
+left: 40px;
 top: 10px;
 font-weight: 500;
 font-size: 1.2em;
@@ -331,7 +331,7 @@ line-height: 24px;
 .questions-head h3{
 width: 100%;
 height: 24px;
-left: 81px;
+left: 61px;
 top: 47px;
 font-weight: 400;
 font-size: 1em;
