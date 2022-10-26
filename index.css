@@ -349,9 +349,9 @@ line-height: 24px;
 	margin-left: 3%;
 }
 details summary{
+        position:relative;
         margin:70px auto;
 	width: 50%;
-	height: 24px;
 	font-weight: 600;
 	text-align: left;
 	margin-left: 15px;
