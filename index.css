@@ -350,6 +350,7 @@ line-height: 24px;
 }
 details summary{
         display:inline-block;
+        margin:15px auto;
 	width: 60%;
 	font-weight: 580;
 	text-align: left;
