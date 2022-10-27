@@ -315,7 +315,7 @@ left: 270px;
 {
 .FAQ{
 	width: 500px;
-	height: 1140px;
+	height: 1130px;
 }
 
 .questions-head h1{
@@ -324,14 +324,14 @@ height: 24px;
 left: 20px;
 top: 10px;
 font-weight: 500;
-font-size: 1.5em;
+font-size: 1.3em;
 line-height: 24px;
 }
 
 .questions-head h3{
 width: 100%;
 height: 24px;
-left: 31px;
+left: 21px;
 top: 47px;
 font-weight: 400;
 font-size: 0.8em;
@@ -379,7 +379,7 @@ details[open] summary:after {
 width: 261px;
 height: 24px;
 left: 130px;
-bottom:-510px;
+bottom:-520px;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
@@ -390,7 +390,7 @@ position: absolute;
 width: 572px;
 height: 16px;
 left: 10px;
-bottom: -522px;
+bottom: -542px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 200;
@@ -401,7 +401,7 @@ color: #6F6A6A;
 .contact a{
 position: absolute;
 left: 140px;
-bottom: -586px;
+bottom: -596px;
 background: #1A2B68;
 border-radius: 12px;
 padding: 12px 20px;
