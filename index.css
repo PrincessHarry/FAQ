@@ -315,7 +315,7 @@ left: 270px;
 {
 .FAQ{
 	width: 500px;
-	height: 1130px;
+	height: 1110px;
 }
 
 .questions-head h1{
@@ -324,7 +324,7 @@ height: 24px;
 left: 20px;
 top: 10px;
 font-weight: 500;
-font-size: 1.3em;
+font-size: 1.2em;
 line-height: 24px;
 }
 
@@ -333,7 +333,7 @@ width: 100%;
 height: 24px;
 left: 21px;
 top: 47px;
-font-weight: 400;
+font-weight: 300;
 font-size: 0.8em;
 line-height: 24px;
 }
