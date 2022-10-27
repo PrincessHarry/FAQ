@@ -315,7 +315,7 @@ left: 270px;
 {
 .FAQ{
 	width: 500px;
-	height: 1150px;
+	height: 1140px;
 }
 
 .questions-head h1{
@@ -379,7 +379,7 @@ details[open] summary:after {
 width: 261px;
 height: 24px;
 left: 130px;
-bottom:-480px;
+bottom:-500px;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
@@ -400,7 +400,7 @@ color: #6F6A6A;
 }
 .contact a{
 position: absolute;
-left: 180px;
+left: 140px;
 bottom: -576px;
 background: #1A2B68;
 border-radius: 12px;
