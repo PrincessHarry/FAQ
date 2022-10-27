@@ -324,7 +324,7 @@ height: 24px;
 left: 20px;
 top: 10px;
 font-weight: 500;
-font-size: 2em;
+font-size: 1.5em;
 line-height: 24px;
 }
 
@@ -334,7 +334,7 @@ height: 24px;
 left: 31px;
 top: 47px;
 font-weight: 400;
-font-size: 1em;
+font-size: 0.8em;
 line-height: 24px;
 }
 .questions-list{
@@ -379,7 +379,7 @@ details[open] summary:after {
 width: 261px;
 height: 24px;
 left: 130px;
-bottom:-500px;
+bottom:-510px;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
@@ -390,7 +390,7 @@ position: absolute;
 width: 572px;
 height: 16px;
 left: 10px;
-bottom: -512px;
+bottom: -522px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 200;
@@ -401,7 +401,7 @@ color: #6F6A6A;
 .contact a{
 position: absolute;
 left: 140px;
-bottom: -576px;
+bottom: -586px;
 background: #1A2B68;
 border-radius: 12px;
 padding: 12px 20px;
